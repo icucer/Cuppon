@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.logo-white {
+    width: 86px;
+    height: 25px;
+}
+
+/*navbar*/
+nav{
+    background-color: #28A745;
+    font-size: 16px;
+}
+
+/*cards*/
+.card .p-2 h3{
+    color: #28A745;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.card .p-2 {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/*formulario*/
+form{
+    background-color: #28A745;
+}
+form p{
+    color: white;
+    text-align: center;
+    font-size: 21px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+/*footer*/
+footer img{
+    width: 10%;
+}
+footer p{
+    color: #707070;
+    font-size: 16px;
+}
